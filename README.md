@@ -1,6 +1,6 @@
 # Hi there, I'm niredocz 👋
 
-🔭 I’m currently building Memories Web App project
+🔭 I’m currently building Memories Web App project <br>
 🌱 I’m currently learning Node.Js, React, Redux, and Express.Js
 <!--
 **niredocz/niredocz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
