@@ -1,7 +1,8 @@
 # Hi there, I'm niredocz 👋
 
 🔭 I’m currently building Memories Web App project <br>
-🌱 I’m currently learning Node.Js, React, Redux, and Express.Js
+🌱 I’m currently learning Node.Js, React, Redux, and Express.Js <br>
+📫 I'm also currently create a final project for my college on https://github.com/niredocz/silver-goggles
 <!--
 **niredocz/niredocz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
