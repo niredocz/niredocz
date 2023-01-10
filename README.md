@@ -1,7 +1,6 @@
 # Hi there, I'm Daffa Aldzakian Fauzi 👋
 
-🔭 I'm currently building Project Tanam Phicos on [royaldoy/tanam-phicos](https://github.com/royaldoy/tanam-phicos) <br>
-🌱 I’m currently learning Node.Js, React, Redux, and Express.Js <br>
+🌱 I’m currently learning Front End things, ReactJS, Redux, Zustand, and other libraries. <br>
 
 ## My Finished Project 
 
